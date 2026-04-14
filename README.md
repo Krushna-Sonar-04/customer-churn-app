@@ -15,3 +15,6 @@ This is a Streamlit web app that predicts customer churn using a machine learnin
 
 ## How to Run
 streamlit run app.py
+
+## Streamlit Link
+https://krushna-customer-churn.streamlit.app/
